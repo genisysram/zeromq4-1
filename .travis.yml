@@ -5,6 +5,9 @@ language: c
 os:
 - linux
 - osx
+arch:
+    - amd64
+    - ppc64le
 
 sudo: false
 dist: trusty
